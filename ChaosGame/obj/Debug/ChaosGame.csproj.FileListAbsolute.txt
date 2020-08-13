@@ -1,0 +1,11 @@
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/bin/Debug/ChaosGame.exe.config
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/bin/Debug/ChaosGame.exe
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/bin/Debug/ChaosGame.pdb
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/obj/Debug/ChaosGame.csprojAssemblyReference.cache
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/obj/Debug/ChaosGame.CfrmChaos.resources
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/obj/Debug/ChaosGame.Properties.Resources.resources
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/obj/Debug/ChaosGame.csproj.GenerateResource.cache
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/obj/Debug/ChaosGame.exe
+C:/Users/Rapelang Lepeli/Desktop/ProjectCode/ChaosGame/obj/Debug/ChaosGame.pdb
+/home/rapslepeli/Projects/Chaos/ChaosGame/obj/Debug/ChaosGame.exe
+/home/rapslepeli/Projects/Chaos/ChaosGame/obj/Debug/ChaosGame.pdb
